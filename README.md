@@ -37,6 +37,10 @@ Corra la aplicación ingresando al siguiente link: [http://localhost:5000/](http
 Puede ver el funcionamiento de la aplicación en el siguiente enlace: [https://youtu.be/Z7hCboGyl5A](https://youtu.be/Z7hCboGyl5A)
 
 ## Documentación
+Servicio de login: [Doc](https://federico29.github.io/AREP-Aplicaci-nSeguraEnTodosSusFrentes/Documentacion/Documentacion%20servicio%20login/)
+Servicio de fecha: [Doc](https://federico29.github.io/AREP-Aplicaci-nSeguraEnTodosSusFrentes/Documentacion/Documentacion%20servicio%20de%20fecha/)
+
+
 Puede generar la documentación del proyecto ejecutando el siguiente comando en el directorio AREP-Aplicaci-nSeguraEnTodosSusFrentes/securespark/ o AREP-Aplicaci-nSeguraEnTodosSusFrentes/dataservice/:
 > ```
 > mvn javadoc:javadoc
