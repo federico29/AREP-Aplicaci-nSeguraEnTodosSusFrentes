@@ -33,11 +33,11 @@ Para tener las imágenes en su computador corriendo en contenedores ejecute en u
 
 Corra la aplicación ingresando al siguiente link: [http://localhost:5000/](http://localhost:5000/)
 
-## Pruebas
+## Demostración
 Puede ver el funcionamiento de la aplicación en el siguiente enlace: [https://youtu.be/Z7hCboGyl5A](https://youtu.be/Z7hCboGyl5A)
 
 ## Documentación
-Puede generar la documentación del proyecto ejecutando el siguiente comando en el directorio AREP-TallerAWS/loadbalancer/ o AREP-TallerAWS/logservice/:
+Puede generar la documentación del proyecto ejecutando el siguiente comando en el directorio AREP-Aplicaci-nSeguraEnTodosSusFrentes/securespark/ o AREP-Aplicaci-nSeguraEnTodosSusFrentes/dataservice/:
 > ```
 > mvn javadoc:javadoc
 > ```
