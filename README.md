@@ -28,7 +28,7 @@ Para tener las imágenes en su computador corriendo en contenedores ejecute en u
 >docker run -d -p 5000:6000 --name loginservice fede2906b/secure-app:s1
 >```
 >```
->docker run -d -p 4000:6000 --name loginservice fede2906b/secure-app:s2
+>docker run -d -p 4000:6000 --name dateservice fede2906b/secure-app:s2
 >```
 
 Corra la aplicación ingresando al siguiente link: [http://localhost:5000/](http://localhost:5000/)
